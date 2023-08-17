@@ -62,7 +62,7 @@ export default function LogIn() {
             <div className="p-1 text-bg-light">
                 <Link onClick={forgot_password}>forgot password?</Link>
                 <br />
-                <span><Link to={'/home'}>Enter as guest</Link> OR <Link to={'/signup'}>Sign up</Link></span>
+                <span><Link to={'/'}>Enter as guest</Link> OR <Link to={'/signup'}>Sign up</Link></span>
             </div>
         </div>
     )
