@@ -111,3 +111,4 @@ To add them simply go to the api file (website folder => src folder => DAL folde
 please read the inside README of both web-server and website files
 web-server is more information about nestJS
 and website is more information about react
+# landing_page
